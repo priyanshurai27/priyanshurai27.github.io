@@ -39,6 +39,8 @@ body {
   grid-gap: 10px;
   grid-template-columns: repeat(4, 1fr);
 }
+.beauty{font-size: 45px;
+}
 
 button {
   background-color: #333;
